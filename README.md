@@ -29,13 +29,7 @@
 
 <div align="center">
 
-<img height="170" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
-
-<img height="170" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
 <img height="170" src="https://streak-stats.demolab.com/?user=maryuka&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<img height="170" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language" />
-<img height="170" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" />
 
 </div>
 
