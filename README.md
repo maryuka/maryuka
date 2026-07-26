@@ -29,18 +29,13 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=maryuka&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=maryuka&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img height="170" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryuka&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="170" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
+<img height="170" src="https://streak-stats.demolab.com/?user=maryuka&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-</div>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=maryuka&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophies" />
+<img height="170" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language" />
+<img height="170" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" />
 
 </div>
 
